@@ -33,14 +33,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31bmtcoj526sgwhd6zsokit75tha">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31bmtcoj526sgwhd6zsokit75tha&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/BritishTeaEnjoyer/BritishTeaEnjoyer/output/snake.svg" alt="Snake animation" />
