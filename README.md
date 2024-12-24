@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Callum <br> 👷‍♂️ I’m currently working on: <br> <br>
+<h2 align="left">Hi 👋! I'm Callum <br> <br> 👷‍♂️ I’m currently working on: <br> 
 My own personal AI model <br> <br>
 👨‍💻 The language I am currently working in: <br>
 Python with Google’s Gemini AI <br> <br>
