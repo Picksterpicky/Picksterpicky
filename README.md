@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! I'm Callum!👷‍♂️ I’m currently working on: 
-My own personal AI model
-👨‍💻 The language I am currently working in: 
-Python with Google’s Gemini AI
-🤝 I am looking for help with: Requiring footage to feed to my AI</h2>
+<h2 align="left">Hi 👋! I'm Callum <br> 👷‍♂️ I’m currently working on: <br>
+My own personal AI model <br>
+👨‍💻 The language I am currently working in: <br>
+Python with Google’s Gemini AI <br>
+🤝 I am looking for help with: <br> Requiring footage to feed to my AI</h2>
 
 ###
 
